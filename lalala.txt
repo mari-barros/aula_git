@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mari mari mari mari mari golpe
+=======
+mari mari mari mari golpe
+>>>>>>> atv_mari
